@@ -17,34 +17,26 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" />
-</p>
+- ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg =24x24) **Java**
+- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =24x24) **JavaScript**
+- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg =24x24) **HTML**
+- ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg =24x24) **CSS**
+- ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg =24x24) **PHP**
 
-#### 🧰 Frameworks & Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="32" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="32" alt="WordPress" />
-</p>
+#### ⚙️ Frameworks & Libraries
+- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =24x24) **Node.js**
+- ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg =24x24) **Express.js**
+- ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg =24x24) **Bootstrap**
+- ![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg =24x24) **WordPress**
 
 #### 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" />
-</p>
+- ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg =24x24) **MySQL**
+- ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg =24x24) **MongoDB**
 
-#### 🔧 Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code" />
-</p>
+#### 🛠️ Tools
+- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg =24x24) **Git**
+- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg =24x24) **GitHub**
+- ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg =24x24) **VS Code**
 
 
 ---
