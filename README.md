@@ -8,8 +8,7 @@
 - 🎓 Final-year B.Tech student in Information Technology (2025 Batch) at Netaji Subhash Engineering College  
 - 🌱 Currently learning **WordPress**, **Advanced PHP**, and backend integration with **MySQL & MongoDB**  
 - 🔭 Working on **Wanderlust** – a hotel booking web app with listings, reviews, and email confirmation  
-- 🧠 I’m interested in **Web Development**, **APIs**, and **Cybersecurity**  
-- 🧩 Always eager to explore new tech and build practical projects  
+- 🧠 Interested in **Web Development**, **APIs**, and **Cybersecurity**  
 - ⚡ Fun fact: I debug better at 2 AM than at 2 PM 😄  
 
 ---
@@ -17,27 +16,26 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
-- ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg =24x24) **Java**
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =24x24) **JavaScript**
-- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg =24x24) **HTML**
-- ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg =24x24) **CSS**
-- ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg =24x24) **PHP**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> HTML  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> CSS  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24"/> PHP  
 
 #### ⚙️ Frameworks & Libraries
-- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =24x24) **Node.js**
-- ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg =24x24) **Express.js**
-- ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg =24x24) **Bootstrap**
-- ![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg =24x24) **WordPress**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24"/> Node.js  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24"/> Express.js  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="24"/> Bootstrap  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="24"/> WordPress  
 
 #### 🗄️ Databases
-- ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg =24x24) **MySQL**
-- ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg =24x24) **MongoDB**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> MySQL  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24"/> MongoDB  
 
 #### 🛠️ Tools
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg =24x24) **Git**
-- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg =24x24) **GitHub**
-- ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg =24x24) **VS Code**
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Git  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> GitHub  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24"/> VS Code  
 
 ---
 
