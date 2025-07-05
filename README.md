@@ -16,33 +16,29 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-> ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-> ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
-> ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-> ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-> ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)  
-> ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
-
-**Databases**  
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-
-**Tools**  
-> ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-> ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-> ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="50" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="50" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhadipKarmakar&show_icons=true&theme=radical" alt="Subhadip's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadipKarmakar&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadipKarmakar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 ---
@@ -71,5 +67,7 @@
 ---
 
 <p align="center">Thanks for visiting! 🌟 Let's connect and build something amazing together.</p>
+
+
 
 
