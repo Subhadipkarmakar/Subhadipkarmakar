@@ -7,9 +7,9 @@
 
 - 🎓 Final-year B.Tech student in Information Technology (2025 Batch) at Netaji Subhash Engineering College  
 - 🌱 Currently learning **WordPress**, **Advanced PHP**, and backend integration with **MySQL & MongoDB**  
-- 🔭 Working on **Wanderlust** – a hotel booking web app with listings, reviews, and email confirmation  
-- 🧠 Interested in **Web Development**, **APIs**, and **Cybersecurity**  
-- ⚡ Fun fact: I debug better at 2 AM than at 2 PM 😄  
+- 🔭 Building **Wanderlust** – a full-stack hotel booking web app with listings, reviews, and email confirmations  
+- 🧠 Passionate about **Web Development**, **APIs**, and **Cybersecurity**  
+- ⚡ Fun Fact: I debug better at 2 AM than at 2 PM 😄  
 
 ---
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 Most Used Languages
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadipKarmakar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
@@ -51,8 +51,9 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [Wanderlust](https://wanderlust-2-wru2.onrender.com/listings) | Node.js, Express, MongoDB, EJS | Hotel listing & booking app with login, email confirmation, reviews |
-| [Weather App](https://weather-app-five-chi-47.vercel.app/) | HTML, CSS, JS, WeatherAPI | 5-day forecast weather app with real-time data & validation |
+| [Wanderlust](https://wanderlust-2-wru2.onrender.com/listings) | Node.js, Express, MongoDB, EJS | Full-stack hotel listing & booking app with user auth, reviews, and email confirmation |
+| [Weather App](https://weather-app-five-chi-47.vercel.app/) | HTML, CSS, JavaScript, WeatherAPI | A 5-day weather forecast app with real-time data, search, and validation |
+| [Portfolio Website](https://protfolio-subhadip.vercel.app/) | HTML, CSS, JavaScript | A modern minimalist portfolio website to showcase my skills and projects |
 
 ---
 
@@ -66,11 +67,12 @@
 
 - 📧 Email: [karmakarsubhadip59@gmail.com](mailto:karmakarsubhadip59@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/subhadipkarmakar](https://linkedin.com/in/subhadipkarmakar)  
-- 🌐 Portfolio: *Coming Soon*
+- 🌐 Portfolio: [protfolio-subhadip.vercel.app](https://protfolio-subhadip.vercel.app/)
 
 ---
 
 <p align="center">Thanks for visiting! 🌟 Let's connect and build something amazing together.</p>
+
 
 
 
